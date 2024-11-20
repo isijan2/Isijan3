@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Semantic HTML - Products</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+<nav>
+  <!-- unordered list -->
+  <!-- <ul></ul> -->
+  <a href="./index.html">
+    <img src="./assets/icons/logo.jpg" alt="">
+  </a> 
+  <ul>
+    <li><a href="./index.html">Home</a></li>
+    <li><a href="./products.html">Products</a></li>
+    <li><a href="./about.html">About</a></li>
+    <li><a href="./contacts.html">Contacts</a></li>
+  </ul>
+</nav>
+  </header>
+
+  <main>
+    <h1>Products</h1>
+
+    <section>
+      <h2>Products</h2>
+
+      <p>Products section</p>
+
+      <div> Product 1 </div>
+
+      <div> Product 2 </div>
+
+      <div> Product 3 </div>
+
+      <span>Product 4</span>
+      <span>Product 5</span>
+      <span>Product 6</span>
+
+      <div> Product 7 </div>
+
+      <p>
+        lorem ipsum dolor
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum at nisi rerum, aliquam error temporibus possimus ut nihil eos ullam sequi iste corporis obcaecati, commodi qui ipsum rem dolores! Numquam officiis, corporis quod rerum obcaecati praesentium, ullam inventore ipsam consequatur, voluptatibus distinctio! Voluptatibus possimus quas culpa aliquam totam, nulla reiciendis ducimus tempore amet? Hic veritatis delectus ea perspiciatis maxime consequatur rem quaerat, alias voluptates. Quibusdam similique ipsum vitae quod repellendus consequatur! Numquam aperiam expedita itaque ratione inventore quos recusandae illum odio maiores voluptas excepturi quo cupiditate, eos sunt natus et laudantium? Optio quibusdam dicta possimus, harum alias labore inventore sed!
+      </p>
+    </section>
+  </main>
+  <footer>
+    <nav>
+      <ol>
+        <li><a href="./index.html">Home</a> <a href="./index.html"> new home</a></li>
+        <li><a href="./products.html">Products</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./contacts.html">Contacts</a></li>
+      </ol>
+    </nav>
+  </footer>
+</body>
+</html>
